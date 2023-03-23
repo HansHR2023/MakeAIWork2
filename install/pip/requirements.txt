@@ -15,6 +15,7 @@ numpy
 numpy
 pandas
 ptpython
+pytorch
 scipy
 seaborn
 sentence-transformers
