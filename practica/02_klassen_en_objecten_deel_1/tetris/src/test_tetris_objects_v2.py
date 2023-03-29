@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from tetris_objects import Figure
+from tetris_objects import Figure as figure
 from random import choice, randrange
 import logging
 import numpy as np

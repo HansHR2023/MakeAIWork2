@@ -1,0 +1,4 @@
+INFO:root:testInput : [0 1]
+INFO:root:Predicted yAND value : 0
+INFO:root:testInput : [0 0]
+INFO:root:Predicted yOr value : 0
