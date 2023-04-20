@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+practica/07_ml_frameworks/lightning_logs/version_0/checkpoints/epoch=0-step=100.ckpt
+practica/07_ml_frameworks/MNIST/raw/t10k-images-idx3-ubyte
+practica/07_ml_frameworks/MNIST/raw/t10k-images-idx3-ubyte.gz
+practica/07_ml_frameworks/MNIST/raw/t10k-labels-idx1-ubyte
+practica/07_ml_frameworks/MNIST/raw/t10k-labels-idx1-ubyte.gz
+practica/07_ml_frameworks/MNIST/raw/train-images-idx3-ubyte
+practica/07_ml_frameworks/MNIST/raw/train-images-idx3-ubyte.gz
+practica/07_ml_frameworks/MNIST/raw/train-labels-idx1-ubyte
+practica/07_ml_frameworks/MNIST/raw/train-labels-idx1-ubyte.gz
